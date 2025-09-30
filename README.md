@@ -17,7 +17,7 @@ This approach highlights how unstructured text can be transformed into structure
 
 - 📄 [Data Cleanning and Transformation](https://github.com/andrezrg/Disneyland-Reviews-Analytics/blob/main/disneyland-reviews/data-transformation.ipynb)
 - 🗂️ [Kaggle Dataset](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
-- 📈 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/andr.s.ram.rez.guill.n/viz/dashboard_17592119241400/Dashboard?publish=yes)
+- 📈 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/andr.s.ram.rez.guill.n/viz/disneyland-reviews/Dashboard?publish=yes)
 
 ## 🔍 Insights
 
